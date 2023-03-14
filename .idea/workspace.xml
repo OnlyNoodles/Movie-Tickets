@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="82d7671d-c47b-46cb-aafa-18635b1225e3" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -32,6 +35,11 @@
     "last_opened_file_path": "C:/Users/Owner/OneDrive - Middleton Grange School/Yr 11 work/Computer Science/AS 1.7 Programming/Exercise/Movie Tickets"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Owner\OneDrive - Middleton Grange School\Yr 11 work\Computer Science\AS 1.7 Programming\Exercise\Movie Tickets" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
